@@ -1,1 +1,30 @@
-Inteligencia Artificial
+¿Qué es inteligencia artificial? 
+
+Aunque siempre imaginamos un robot con su propia personalidad, la inteligencia artificial se define como la capacidad de hacer que las máquinas simulen nuestro razonamiento humano, haciéndoles entender la información para usarla en su proceso de toma de decisiones y resolver problemas de una manera similar a como lo hacemos.
+Un ejemplo de esto, que ha sido ampliamente utilizado en la mejora de la inteligencia artificial, es el ajedrez. El juego implica un razonamiento lógico puro y siempre se utiliza para demostrar la capacidad de aprendizaje de nuevas tecnologías y algoritmos de inteligencia artificial. Por cierto, ¿sabía que AlphaZero, creado por Google, aprendió el juego por sí mismo en unas horas y fue capaz de derrotar al actual campeón del mundo virtual, Stockfish?
+
+Ejemplos de Chat
+Chat GPT
+GEMINI
+¿Cuáles son las ventajas de la inteligencia artificial?
+
+Aunque parece ser una inversión costosa, por lo general se paga con el tiempo. Por tanto, el uso de la IA en las empresas, incluso las pequeñas, tiene una faceta más estratégica, siendo capaz de optimizar los procesos, analizar el comportamiento de los usuarios y definir nuevos patrones de comportamiento, como lo hacen los comercios electrónicos para identificar los productos deseados para sus clientes.
+Por supuesto, internamente, la IA aporta las siguientes ventajas a los procesos de su empresa:
+
+•	Reducción de retrasos y fallos en los procesos internos; 
+•	Reducción de los costos de operativos;
+•	Más seguridad para los datos de la empresa; 
+•	Reducción de errores y fallos humanos; 
+•	Optimización de tareas y procesos internos; 
+•	Agilidad en los procesos; 
+•	nnovación e investigación.
+
+Otra ventaja que la IA permite explotar son los informes. Necesarias, pero de larga duración, pueden ser analizadas por la IA de la empresa, así como las tasas de uso del sistema y otras estadísticas internas que son susceptibles de mejora.
+Centrado específicamente en su equipo de TI, el uso de inteligencia artificial puede conducir a varias ventajas, como:
+
+•	Mayor control en la gestión de procesos de TI; 
+•	Automatización de procesos internos que requieren mucho tiempo; 
+•	Hacer que la TI sea más estratégica, capaz de predecir y prevenir situaciones como el aumento y la mejora de la infraestructura; 
+•	Sector de TI más eficiente.
+
+
